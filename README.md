@@ -1,7 +1,7 @@
-# DN4.0-JavaFSE
-## Hands-on and learning content for Cognizant Digital Nurture 4.0 – Java FSE Track
+# DN5.0-JavaFSE
+## Hands-on and learning content for Cognizant Digital Nurture 5.0 – Java FSE Track
 
-### Created by Soumyadip Karan.
+### Created by Ram Kumar Mehta.
 
 # Week 01 
 ```
