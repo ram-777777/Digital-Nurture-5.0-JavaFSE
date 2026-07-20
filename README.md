@@ -259,7 +259,7 @@ Additional
 - Set up a Eureka Discovery Server on port 8761.
 - Registered both "account" and "loan" services with Eureka for discovery.
 
-# Created by Soumyadip Karan for the Digital Nurture 4.0 Java FSE program.
+# Created by Ram Kumar Mehta for the Digital Nurture 5.0 Java FSE program.
 
 ---
 # Week 06

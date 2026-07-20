@@ -61,4 +61,4 @@ week_02/
 - Exercise 2: Parameterized Logging
 - Exercise 3: Using Different Appenders
 
-## Created by Soumyadip Karan for the Digital Nurture 4.0 Java FSE program.
+## Created by Ram Kumar Mehta for the Digital Nurture 5.0 Java FSE program.
