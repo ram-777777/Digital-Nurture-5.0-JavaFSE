@@ -1,0 +1,13 @@
+.idea/
+*.iml
+.vscode/
+*.class
+target/
+build/
+*.log
+Thumbs.db
+desktop.ini
+
+
+practice/
+practice_react/
